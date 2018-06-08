@@ -1,3 +1,9 @@
+Based on the image at 
+git@github.com:Pivotal-Field-Engineering/angular-cli.git
+
+now based on node 9 and updated for angular 6
+
+
 # Angular CLI Docker Image
 
 [![CI Builds](https://wings.concourse.ci/api/v1/teams/sme-pcf-concourse/pipelines/angular-cli/jobs/build/badge)](https://wings.concourse.ci/teams/sme-pcf-concourse/pipelines/angular-cli)

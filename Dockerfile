@@ -1,11 +1,11 @@
-FROM node:8.5-alpine
+FROM node:9.11.1-alpine
 
 # install angular-cli as node user
 RUN chown -R node:node /usr/local/lib/node_modules \
   && chown -R node:node /usr/local/bin
 
 USER node
-RUN npm install -g @angular/cli@1.4.2
+RUN npm install -g @angular/cli@latest
 
 # set npm as default package manager for root
 USER root
