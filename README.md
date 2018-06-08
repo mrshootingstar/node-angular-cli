@@ -1,7 +1,10 @@
-Based on the image at 
-git@github.com:Pivotal-Field-Engineering/angular-cli.git
+Based on the image at
 
-now based on node 9 and updated for angular 6
+
+[pivotalpa/angular-cli ](git@github.com:Pivotal-Field-Engineering/angular-cli.git)
+
+
+Updated for Node 9 and Angular 6
 
 
 # Angular CLI Docker Image
